@@ -2,10 +2,17 @@ package e3lengthOfLongestSubstrings;
 
 import java.util.HashMap;
 
+/**
+ * Runtime 5 ms Beats 93.26%
+ * Memory 42.5 MB Beats 69.34%
+ */
 public class Solution3 {
     /**
      * Explanation: The answer is "abc", with the length of 3.
-     *
+     * Beats
+     * 93.26%
+     * Beats
+     * 69.34%
      * @param s Input: s = "abcabcbb"
      * @return Output: 3
      */
